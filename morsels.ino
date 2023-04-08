@@ -188,6 +188,30 @@ void Letters() {
     name = "";
     name2 +=results[29];
   }
+  if (name == ".....") {
+    name = "";
+    name2 +=results[30];
+  }
+  if (name == "-....") {
+    name = "";
+    name2 +=results[31];
+  }
+  if (name == "--...") {
+    name = "";
+    name2 +=results[32];
+  }
+  if (name == "---..") {
+    name = "";
+    name2 +=results[33];
+  }
+  if (name == "----.") {
+    name = "";
+    name2 +=results[34];
+  }
+  if (name == "-----") {
+    name = "";
+    name2 +=results[35];
+  }
   
 }
 void onRelease() {
