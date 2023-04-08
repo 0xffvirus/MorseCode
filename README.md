@@ -1,2 +1,2 @@
 # MorseCode
-Mordecode with Arduino lcd and push button
+MorseCode with Arduino lcd and push button
