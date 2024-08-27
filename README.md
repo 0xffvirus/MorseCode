@@ -17,6 +17,6 @@ Rpot1	- 1	- 250 kΩ Potentiometer <br />
 S1 - 1	- Pushbutton <br />
 R2R1	- 2	- 1 kΩ Resistor
 
-##Screenshot
+## Screenshot
 
 <img src="https://i.ibb.co/8YyZjSf/Screen-Shot-1444-09-17-at-2-38-09-PM.png" />
